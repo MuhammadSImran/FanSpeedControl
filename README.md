@@ -8,7 +8,7 @@ To use this, you must have download the app which was created in MitAppInventor 
 
 Once you have it installed to your phone, you must next upload the Arduino code to an Arduino Uno board.
 
-Next you must connected a bluetooth module to the Arduino board.
+Next you must connect a bluetooth module to the Arduino board.
 
 Next using the app, you click on the bluetooth button to connect to the bluetooth module.
 
